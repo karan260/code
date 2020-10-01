@@ -1,4 +1,4 @@
-// This sample program demonstrates how to decode a JSON response
+// This sample program demonstrates how to decode a JSON response the time
 // using the json package and NewDecoder function.
 package main
 
